@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.28ea4110.chunk.css",
+    "main.js": "/landing-page/static/js/main.0401611b.chunk.js",
+    "main.js.map": "/landing-page/static/js/main.0401611b.chunk.js.map",
+    "runtime-main.js": "/landing-page/static/js/runtime-main.8c4e35fe.js",
+    "runtime-main.js.map": "/landing-page/static/js/runtime-main.8c4e35fe.js.map",
+    "static/js/2.e22f8150.chunk.js": "/landing-page/static/js/2.e22f8150.chunk.js",
+    "static/js/2.e22f8150.chunk.js.map": "/landing-page/static/js/2.e22f8150.chunk.js.map",
+    "index.html": "/landing-page/index.html",
+    "precache-manifest.39cc8205d8c350e25460f449811fa651.js": "/landing-page/precache-manifest.39cc8205d8c350e25460f449811fa651.js",
+    "service-worker.js": "/landing-page/service-worker.js",
+    "static/css/main.28ea4110.chunk.css.map": "/landing-page/static/css/main.28ea4110.chunk.css.map",
+    "static/js/2.e22f8150.chunk.js.LICENSE.txt": "/landing-page/static/js/2.e22f8150.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/landing-page/static/media/man.7edfb136.jpg",
+    "static/media/Vezeti.png": "/landing-page/static/media/Vezeti.5c9d6a1b.png",
+    "static/media/businesswoman2.svg": "/landing-page/static/media/businesswoman2.d2063cac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c4e35fe.js",
+    "static/js/2.e22f8150.chunk.js",
+    "static/css/main.28ea4110.chunk.css",
+    "static/js/main.0401611b.chunk.js"
+  ]
+}
